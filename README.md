@@ -172,7 +172,7 @@ OUTPUT
 ![328588837-08d2e7c6-2608-4faf-8d17-a85311763ce5](https://github.com/Naradinakar/VLSI-LAB-EXP-2/assets/161109578/8191bde6-5b64-4926-9028-b186ab533b56)
 
 
-RESULT
+RESULT:
 
 Thus the simulation and synthesis of ENCODER, DECODER, MULTIPLEXER, DEMULTIPLEXER, 2bit MAGNITUDE COMPARATOR using vivado is successfully completed and executed.
 
